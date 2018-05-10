@@ -1,0 +1,31 @@
+{
+  "author": {
+    "name": "Rafael Zanetti",
+    "email": "rafael.zanetti@sap.com"
+  },
+  "bugs": {
+    "url": "https://github.com/rafatzbr/ar4h/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "lodash": "^4.17.5",
+    "pg": "^7.4.3"
+  },
+  "deprecated": false,
+  "description": "NDO - Node Data Objects",
+  "engines": {
+    "node": "^8.0.0"
+  },
+  "homepage": "https://github.com/rafatzbr/node-ndo#readme",
+  "license": "MIT",
+  "main": "index.js",
+  "name": "ndo",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafatzbr/node-ndo.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.0.1"
+}
