@@ -1,4 +1,4 @@
 'user strict';
 
-exports.ar4h = require('./lib/ar4h').ar4h;
+exports.ndo4h = require('./lib/ndo').ndo;
 exports.middleware = require('./lib/pg-middleware').middleware;
