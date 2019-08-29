@@ -8,9 +8,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "@sap/xsenv": "^1.2.9",
-    "lodash": "^4.17.13",
-    "pg": "^7.4.3"
+    "lodash": "^4.17.15"
   },
   "deprecated": false,
   "description": "NDO - Node Data Objects",
@@ -28,5 +26,5 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "version": "0.1.9"
+  "version": "0.1.10"
 }
