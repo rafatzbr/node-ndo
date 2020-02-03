@@ -13,7 +13,7 @@
   "deprecated": false,
   "description": "NDO - Node Data Objects",
   "engines": {
-    "node": "^8.0.0"
+    "node": "^8.0.0 || ^10.0.0 || ^12.0.0"
   },
   "homepage": "https://github.com/rafatzbr/node-ndo#readme",
   "license": "MIT",
