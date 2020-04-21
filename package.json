@@ -8,7 +8,7 @@
   },
   "bundleDependencies": false,
   "dependencies": {
-    "lodash": "^4.17.15"
+    "lodash": "latest"
   },
   "deprecated": false,
   "description": "NDO4H - Node Data Objects for HANA",
