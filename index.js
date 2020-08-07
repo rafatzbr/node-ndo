@@ -1,3 +1,3 @@
-'user strict';
+'use strict';
 
 exports.ndo4h = require('./lib/ndo').ndo;
