@@ -2,8 +2,6 @@ NDO4H - Node Data Objects for Hana
 ============
 Promisify & Objectify as camelCase hana queries
 
-#Usage
-
 ## Initialization
 
 * Make sure you imported and initialized \@sap/hdbext library as described in https://www.npmjs.com/package/@sap/hdbext
