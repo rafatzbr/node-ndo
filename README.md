@@ -43,9 +43,9 @@ Example return:
 [
     {
         "id": 1,
-        "firstName": 'Rafael',
-        "lastName": 'Zanetti',
-        "email": 'something@else.com'
+        "firstName": "Rafael",
+        "lastName": "Zanetti",
+        "email": "something@else.com"
     }
 ]
 ```
